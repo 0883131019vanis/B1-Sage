@@ -1,0 +1,33 @@
+SPRING
+
+EJB -> enterprise java bean  -> enterprise app, 
+core java -> standard Edition 
+EE -> organisation /company 
+
+Enterprise JavaBeans (EJB) 3.1 technology is the server-side component architecture for the development and deployment of component-based business applications. 
+EJB technology enables rapid and simplified development of distributed, transactional, secure, and portable applications based on Java EE 6 technology.
+
+
+server -> will serve 
+client
+
+hardware port -> usb port, memorycard port, projector port 
+software ports -> 
+ejb - old concept
+
+f/w -> collection of interfaces/classes/packages
+java -> open source, community driven 
+
+community driven -> powerful, current trend
+company driven -> outdated/slow 
+
+community driven frameworks:
+
+  struts -> apache org,
+  hibernate  -> redhat, db related
+  spring -> 
+The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
+many interfaces/classes 
+
+DOUBTS:
+1. what if our request or not found
