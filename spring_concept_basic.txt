@@ -71,12 +71,35 @@ Tightly coupled -> laptop
 loosely coupling -> desktop 
 same scenario -> hardware/ software 
 
+3. REST API 
+
+API -> Application programming interface 
+
+representational current transfer 
+XML/JSON
+
+DB 
+
+create      CRUD  operations
+read
+update
+delete
 
 
+POST, get, put, delete  -> HTTP METHODS 
 
+conclusion:
 
-
+springboot is an 
+		opinionated
+		standalone
+		flexible -> integrate with other f/w
+          	production grade
+                 rest api
+		mvc pattern
+		configuration 
 
 
 DOUBTS:
 1. what if our request or not found
+2. patch
