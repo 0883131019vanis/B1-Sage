@@ -29,5 +29,54 @@ community driven frameworks:
 The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
 many interfaces/classes 
 
+SPRING
+
+springboot is a part of spring 
+
+Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+
+standalone application
+opinionated view 
+production grade setup 
+
+Configuration? -? 
+
+JAR -> Java Archive files
+     -> zip file/ folder containing java class files 
+
+website -> h2db   -> 1 jar file
+	-> mysql       1 jar file     different 
+	-> oracle    1 jarfile 
+WAR -> web application -> WAR -> web archive files
+
+Bill of materials? align version 
+spring framework will align(integrate) other framework  -> flexible
+ 
+
+SPRING FEATURES:
+1. POJO -> PLAIN OLD JAVA OBJECT 
+2. DI -> Dependency injection 
+3. rest api support
+4. mvc-> model view controller pattern 
+5. create a secure appp
+6. batch 
+
+
+MVC PATTERN:
+------------
+ -> design pattern 
+ -> Model, view, controller
+
+Tightly coupled -> laptop 
+loosely coupling -> desktop 
+same scenario -> hardware/ software 
+
+
+
+
+
+
+
+
 DOUBTS:
 1. what if our request or not found
