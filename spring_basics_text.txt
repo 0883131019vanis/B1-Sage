@@ -1,0 +1,58 @@
+HTTP methods:
+get, post , put , delete
+
+
+DI 
+ design pattern 
+object graph -> how one object is related to another object 
+
+
+@component
+public class Home{
+
+@Autowiring
+@Qualifier("aaa")
+NetConnection netconnection ;
+
+
+}
+
+@Component("bbbb")
+class BSNL implements NetConnection {
+}
+
+@Component("aaa")
+class Airtel implements NetConnection{
+}
+
+interface NetConnection{
+}
+
+
+External service is supported by springboot 
+
+
+
+SPRING CONTAINER
+
+creating stand-alone, production-grade applications with minimum effort.
+
+
+DI -> design Pattern
+   -> inject one object into another 
+      reduce tight coupling 
+ @component, @Autowiring, @Qualifier
+-------------------------------------------
+SPRING:
+it will convert our machine into server as well as a client 
+how to convert machine to server? 
+server -> service provide
+
+browser -> safari, chrome, firefox, explorer 
+servers: apache tomcat, jetty, nginx, adobe jrun 
+
+core strength of springboot -> it will install  configure setup of webserver 
+inbuilt enabled server => AUTOCONFIGURATION
+NO WAR/ JAR FILE CONFIGURATION/MANAGEMENT 
+
+

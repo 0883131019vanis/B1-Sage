@@ -1,0 +1,28 @@
+
+
+spring data JPA 
+1->JPA -> Java Persistence API 
+IT's basically a specification, which let's you do ORM
+A relational database is a type of database that stores and
+ provides access to data points that are related to one another.
+
+you'll have tables, primary key , foreign key which are relational . 
+ORM -> Object Relational Mapping 
+       maps entity class into sequel tables. 
+
+JPA -> way to use the ORM
+  	is an API, it's specification, which let's you to configure entity class and give it to F/w. 
+	F/w will handle the rest. (handle conversion from sequal read queries to obj instances, )
+
+
+spring data jpa? 
+ 
+  -> let's connect to relational Db & let us provide JPA config on our entity classes, 
+
+Each and every istance of this topic class, must go as row in that table 
+JPA -> can covert our topic instance to a row in db
+       can convert a row in db to our topic instance 
+1st step -> we haven entity mapping
+2nd setp -> use topic service to connect to db and run codes. 
+
+
